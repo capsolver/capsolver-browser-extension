@@ -16,15 +16,15 @@ Price:
 https://www.capsolver.com/#pricing
 
 The extension allows to bypass:
-✅reCAPTCHA v2
-✅reCAPTCHA v3
-✅reCAPTCHA Enterprise
-✅hCaptcha
-✅hCaptcha Enterprise
-✅Arkose Labs Captcha / FunCAPTCHA(coming soon)
-✅Amazon AWS WAF CAPTCHA(coming soon)
-✅ImageToText CAPTCHA(coming soon)
-✅Cloudflare Turnstile* (coming soon)
-✅GeeTest v3/ v4 (coming soon)
+* reCAPTCHA v2
+* reCAPTCHA v3
+* reCAPTCHA Enterprise
+* hCaptcha
+* hCaptcha Enterprise
+* Arkose Labs Captcha / FunCAPTCHA(coming soon)
+* Amazon AWS WAF CAPTCHA(coming soon)
+* ImageToText CAPTCHA(coming soon)
+* Cloudflare Turnstile* (coming soon)
+* GeeTest v3/ v4 (coming soon)
 
 Support - support@capsolver.com
