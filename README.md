@@ -15,6 +15,9 @@ CapSolver extension - best and fastest browser captcha solver(based on AI)
 ## Price:
 https://www.capsolver.com/#pricing
 
+## Docs:
+https://docs.capsolver.com/guide/extension/instructions.html
+
 ## The extension allows to bypass:
 * reCAPTCHA v2
 * reCAPTCHA v3
