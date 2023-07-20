@@ -1,0 +1,1 @@
+# Capsolver Extension
