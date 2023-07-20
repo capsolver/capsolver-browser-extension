@@ -7,15 +7,15 @@ CapSolver extension - best and fastest browser captcha solver(based on AI)
 3. Browser extensions can also assist people in need, such as those with disabilities, by automatically recognizing and clicking on captcha verifications.
 4. Browser extension is supported in Chrome, with Firefox, Opera, and Edge planning support in the near future.
 
-How to use:
+## How to use:
 1. Add extension to Chrome
 2. Sign up and add funds on  https://capsolver.com/
 3. Add an API key to the extension.
 
-Price:
+## Price:
 https://www.capsolver.com/#pricing
 
-The extension allows to bypass:
+## The extension allows to bypass:
 * reCAPTCHA v2
 * reCAPTCHA v3
 * reCAPTCHA Enterprise
