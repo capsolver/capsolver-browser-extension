@@ -22,9 +22,6 @@ https://docs.capsolver.com/guide/extension/instructions.html
 * reCAPTCHA v2
 * reCAPTCHA v3
 * reCAPTCHA Enterprise
-* hCaptcha
-* hCaptcha Enterprise
-* Arkose Labs Captcha / FunCAPTCHA(coming soon)
 * Amazon AWS WAF CAPTCHA(coming soon)
 * ImageToText CAPTCHA(coming soon)
 * Cloudflare Turnstile* (coming soon)
